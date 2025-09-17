@@ -1,1 +1,1 @@
-i am a remote_branch1 file
+i am a remote_branch1 file but name has main because i am its origin
